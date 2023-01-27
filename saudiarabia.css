@@ -1,0 +1,71 @@
+
+body {
+  background-color: gray;
+}
+
+
+
+body {
+  color:black;
+}
+.text-border {
+  border: 25px solid black;
+  padding: 70px;
+}
+
+
+.center-element {
+  margin: 0 auto;
+  width: 50%;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+}
+
+img {
+  border: 17px solid #FDD017;
+}
+
+img {
+  border: 2px solid gold;
+}
+
+figcaption {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 11pt;
+}
+
+* {
+  font-family: 'Amatic SC', cursive;
+  font-size: 14px;
+  line-height: 2;
+}
+
+body {
+  color: rgb(2, 51, 2);
+}
+
+figcaption {
+  color: #000;
+}
+
+#slider {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+#slider img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
